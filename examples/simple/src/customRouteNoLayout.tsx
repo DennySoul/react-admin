@@ -11,7 +11,7 @@ const CustomRouteNoLayout = ({ title = 'Posts' }) => {
         <div>
             <h1>{title}</h1>
             {isPending ? (
-                <p className="app-loader">Loading...</p>
+                <p className="app-loader">Loading your page...</p>
             ) : (
                 <p>
                     Found <span className="total">{total}</span> posts !
