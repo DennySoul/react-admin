@@ -28,3 +28,5 @@ cypress/downloads
 .claude/settings.local.json
 .npmrc
 /packs
+
+.DS_Store
