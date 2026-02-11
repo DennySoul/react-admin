@@ -89,12 +89,8 @@ react-admin/
 │   └── ra-language-*/    # Translation packages
 ├── examples/             # Example applications
 │   ├── simple/          # E2E test app
-│   ├── demo/            # Full e-commerce demo
-│   ├── crm/             # CRM application
-│   └── tutorial/        # Tutorial app
 ├── cypress/             # E2E test configuration
 ├── docs/                # Jekyll documentation
-├── docs_headless/       # Astro + Starlight documentation for headless components
 └── scripts/             # Build scripts
 ```
 
