@@ -16,7 +16,9 @@
             "WebFetch(domain:vitest.dev)",
             "WebFetch(domain:playwright.dev)",
             "WebFetch(domain:nextjs.org)",
-            "WebFetch(domain:testing-library.com)"
+            "WebFetch(domain:testing-library.com)",
+            "Read(examples/simple/**)",
+            "Read(packages/**/**/*.tsx)"
         ],
         "ask": [
             "Bash(git add*)",
