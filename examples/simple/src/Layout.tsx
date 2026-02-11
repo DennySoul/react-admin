@@ -22,6 +22,8 @@ const MyMenu = () => (
         <Menu.ResourceItem name="comments" keyboardShortcut="g>c" />
         <Menu.ResourceItem name="tags" keyboardShortcut="g>t" />
         <Menu.ResourceItem name="users" keyboardShortcut="g>u" />
+        <Menu.ResourceItem name="languages" keyboardShortcut="g>l" />
+        <Menu.ResourceItem name="themes" keyboardShortcut="g>t" />
     </Menu>
 );
 
